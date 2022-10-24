@@ -1,0 +1,31 @@
+.\objects\system_stm32f4xx.o: ..\USER\system_stm32f4xx.c
+.\objects\system_stm32f4xx.o: ..\USER\stm32f4xx.h
+.\objects\system_stm32f4xx.o: ..\USER\stm32f429xx.h
+.\objects\system_stm32f4xx.o: ..\CMSIS\core_cm4.h
+.\objects\system_stm32f4xx.o: D:\Program Files (x86)\Keil5_24\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\system_stm32f4xx.o: ..\CMSIS\cmsis_version.h
+.\objects\system_stm32f4xx.o: ..\CMSIS\cmsis_compiler.h
+.\objects\system_stm32f4xx.o: ..\CMSIS\cmsis_armcc.h
+.\objects\system_stm32f4xx.o: ..\CMSIS\mpu_armv7.h
+.\objects\system_stm32f4xx.o: ..\USER\system_stm32f4xx.h
+.\objects\system_stm32f4xx.o: ..\HALLIB\Inc\stm32f4xx_hal.h
+.\objects\system_stm32f4xx.o: ..\USER\stm32f4xx_hal_conf.h
+.\objects\system_stm32f4xx.o: ..\HALLIB\Inc\stm32f4xx_hal_rcc.h
+.\objects\system_stm32f4xx.o: ..\HALLIB\Inc\stm32f4xx_hal_def.h
+.\objects\system_stm32f4xx.o: ..\USER\stm32f4xx.h
+.\objects\system_stm32f4xx.o: ..\HALLIB\Inc\Legacy/stm32_hal_legacy.h
+.\objects\system_stm32f4xx.o: D:\Program Files (x86)\Keil5_24\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\system_stm32f4xx.o: ..\HALLIB\Inc\stm32f4xx_hal_rcc_ex.h
+.\objects\system_stm32f4xx.o: ..\HALLIB\Inc\stm32f4xx_hal_gpio.h
+.\objects\system_stm32f4xx.o: ..\HALLIB\Inc\stm32f4xx_hal_gpio_ex.h
+.\objects\system_stm32f4xx.o: ..\HALLIB\Inc\stm32f4xx_hal_dma.h
+.\objects\system_stm32f4xx.o: ..\HALLIB\Inc\stm32f4xx_hal_dma_ex.h
+.\objects\system_stm32f4xx.o: ..\HALLIB\Inc\stm32f4xx_hal_cortex.h
+.\objects\system_stm32f4xx.o: ..\HALLIB\Inc\stm32f4xx_hal_flash.h
+.\objects\system_stm32f4xx.o: ..\HALLIB\Inc\stm32f4xx_hal_flash_ex.h
+.\objects\system_stm32f4xx.o: ..\HALLIB\Inc\stm32f4xx_hal_flash_ramfunc.h
+.\objects\system_stm32f4xx.o: ..\HALLIB\Inc\stm32f4xx_hal_pwr.h
+.\objects\system_stm32f4xx.o: ..\HALLIB\Inc\stm32f4xx_hal_pwr_ex.h
+.\objects\system_stm32f4xx.o: ..\HALLIB\Inc\stm32f4xx_hal_tim.h
+.\objects\system_stm32f4xx.o: ..\HALLIB\Inc\stm32f4xx_hal_tim_ex.h
+.\objects\system_stm32f4xx.o: ..\HALLIB\Inc\stm32f4xx_hal_uart.h

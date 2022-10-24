@@ -1,0 +1,33 @@
+.\objects\delay.o: ..\BSP\delay\delay.c
+.\objects\delay.o: ..\BSP\delay\delay.h
+.\objects\delay.o: ..\BSP\sys\sys.h
+.\objects\delay.o: ..\USER\stm32f4xx.h
+.\objects\delay.o: ..\USER\stm32f429xx.h
+.\objects\delay.o: ..\CMSIS\core_cm4.h
+.\objects\delay.o: D:\Program Files (x86)\Keil5_24\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\delay.o: ..\CMSIS\cmsis_version.h
+.\objects\delay.o: ..\CMSIS\cmsis_compiler.h
+.\objects\delay.o: ..\CMSIS\cmsis_armcc.h
+.\objects\delay.o: ..\CMSIS\mpu_armv7.h
+.\objects\delay.o: ..\USER\system_stm32f4xx.h
+.\objects\delay.o: ..\HALLIB\Inc\stm32f4xx_hal.h
+.\objects\delay.o: ..\USER\stm32f4xx_hal_conf.h
+.\objects\delay.o: ..\HALLIB\Inc\stm32f4xx_hal_rcc.h
+.\objects\delay.o: ..\HALLIB\Inc\stm32f4xx_hal_def.h
+.\objects\delay.o: ..\USER\stm32f4xx.h
+.\objects\delay.o: ..\HALLIB\Inc\Legacy/stm32_hal_legacy.h
+.\objects\delay.o: D:\Program Files (x86)\Keil5_24\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\delay.o: ..\HALLIB\Inc\stm32f4xx_hal_rcc_ex.h
+.\objects\delay.o: ..\HALLIB\Inc\stm32f4xx_hal_gpio.h
+.\objects\delay.o: ..\HALLIB\Inc\stm32f4xx_hal_gpio_ex.h
+.\objects\delay.o: ..\HALLIB\Inc\stm32f4xx_hal_dma.h
+.\objects\delay.o: ..\HALLIB\Inc\stm32f4xx_hal_dma_ex.h
+.\objects\delay.o: ..\HALLIB\Inc\stm32f4xx_hal_cortex.h
+.\objects\delay.o: ..\HALLIB\Inc\stm32f4xx_hal_flash.h
+.\objects\delay.o: ..\HALLIB\Inc\stm32f4xx_hal_flash_ex.h
+.\objects\delay.o: ..\HALLIB\Inc\stm32f4xx_hal_flash_ramfunc.h
+.\objects\delay.o: ..\HALLIB\Inc\stm32f4xx_hal_pwr.h
+.\objects\delay.o: ..\HALLIB\Inc\stm32f4xx_hal_pwr_ex.h
+.\objects\delay.o: ..\HALLIB\Inc\stm32f4xx_hal_tim.h
+.\objects\delay.o: ..\HALLIB\Inc\stm32f4xx_hal_tim_ex.h
+.\objects\delay.o: ..\HALLIB\Inc\stm32f4xx_hal_uart.h
